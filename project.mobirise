@@ -157,7 +157,7 @@
           },
           "title": "OPACLabs - IT Consulting",
           "text": "OPACLabs is a leading enterprise technology solution provider. Guided by our strong content background and ability to create engaging UI/UX , we work with our clients to build robust, award-winning web, mobile and social media solutions for iOS, Android, Windows 8, HTML5 and more.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features4-1\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media": {
             "image": {
               "active": true,
