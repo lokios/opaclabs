@@ -140,7 +140,7 @@
             "showText": true,
             "showButton": true,
             "showArrow": false,
-            "imageSize": "49",
+            "imageSize": "41",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
